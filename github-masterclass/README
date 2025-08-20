@@ -1,0 +1,39 @@
+# BudgetPulse 💰
+
+A clean, visual dashboard to track your income and expenses at a glance. Built with pure HTML, CSS, and JavaScript.
+
+![BudgetPulse Screenshot](/assets/screenshot.png) *(You'll add this later)*
+
+## 🚀 Live Demo
+
+[Click here to try BudgetPulse!](https://your-username.github.io/budgetpulse) *(If you deploy it to GitHub Pages)*
+
+## ✨ Features
+
+- **Add Transactions:** Log income and expenses with a description and category.
+- **Visual Overview:** See your total balance, income, and expense at the top.
+- **Full History:** View all past transactions in a clear list.
+- **Persistent Data:** Your data is saved in your browser's local storage.
+- **Responsive Design:** Works perfectly on desktop and mobile.
+
+## 🛠️ Built With
+
+- **Frontend:** HTML5, CSS3, Vanilla JavaScript
+- **Storage:** Browser LocalStorage API
+- **Deployment:** GitHub Pages
+
+## 📦 Installation & Usage
+
+1.  Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/budgetpulse.git
+    ```
+2.  Open the `index.html` file in your web browser.
+3.  That's it! Start adding your transactions.
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+**Built solo with ❤️ by Veronicah Nyaboke Doris Arori for Hacksocial 
