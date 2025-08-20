@@ -1,39 +1,48 @@
-# BudgetPulse 💰
 
-A clean, visual dashboard to track your income and expenses at a glance. Built with pure HTML, CSS, and JavaScript.
 
-![BudgetPulse Screenshot](/assets/screenshot.png) *(You'll add this later)*
+# Zen Wisdom 🧠✨
+
+An AI-powered spiritual guide and mental wellness tool designed to provide personalized wisdom, reflective prompts, and calming techniques.
+
+![Zen Wisdom Screenshot](/assets/screenshot.png)
+
+## 🧘‍♂️ What is Zen Wisdom?
+
+Zen Wisdom is a serene web application that acts as your digital mindfulness companion. It uses advanced AI to help you navigate stress, find clarity, and discover personalized insights based on ancient wisdom and modern therapeutic practices.
 
 ## 🚀 Live Demo
 
-[Click here to try BudgetPulse!](https://your-username.github.io/budgetpulse) *(If you deploy it to GitHub Pages)*
+[Experience Zen Wisdom Here](https://your-veronicaharori2025.github.io/zen-wisdom)
 
 ## ✨ Features
 
-- **Add Transactions:** Log income and expenses with a description and category.
-- **Visual Overview:** See your total balance, income, and expense at the top.
-- **Full History:** View all past transactions in a clear list.
-- **Persistent Data:** Your data is saved in your browser's local storage.
-- **Responsive Design:** Works perfectly on desktop and mobile.
+- **AI-Powered Guidance:** Have a conversational dialogue with a thoughtful and compassionate AI guide.
+- **Serene Interface:** A minimalist, calming UI designed to be a digital sanctuary free from distractions.
+- **Personalized Reflections:** Get wisdom and prompts tailored to your current emotional state and questions.
+- **Privacy-Focused:** All conversations are local to your browser. Your reflections are for your eyes only.
 
 ## 🛠️ Built With
 
 - **Frontend:** HTML5, CSS3, Vanilla JavaScript
-- **Storage:** Browser LocalStorage API
+- **AI:** OpenAI GPT API or Google Gemini API
 - **Deployment:** GitHub Pages
+- **Icons:** [Your icon library]
 
-## 📦 Installation & Usage
+## 📦 How to Use
 
-1.  Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/budgetpulse.git
-    ```
-2.  Open the `index.html` file in your web browser.
-3.  That's it! Start adding your transactions.
+1.  Visit the [Live Demo](https://your-username.github.io/zen-wisdom).
+2.  Type your question, worry, or topic you'd like guidance on into the chat interface.
+3.  Receive thoughtful, AI-generated wisdom and reflective prompts.
+4.  Use the insights for journaling, meditation, or finding a moment of peace.
+
+## 👨‍💻 Developer
+
+- Veronicah Nyaboke Ddoris Arori(https://github.com/veronicaharori2025) - Sole Developer & Designer
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-**Built solo with ❤️ by Veronicah Nyaboke Doris Arori for Hacksocial 
+
+**Built with mindfulness and code at [Hacksocial.By Veronicah Nyaboke Doris Arori.
